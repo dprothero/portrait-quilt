@@ -1,8 +1,8 @@
 click==6.7
-Flask==1.0
+Flask==3.0.0
 itsdangerous==0.24
 Jinja2==2.11.3
 MarkupSafe==1.0
 olefile==0.44
-Werkzeug==0.15.3
-Pillow==8.2.0
+Werkzeug==3.0.1
+Pillow==10.1.0
