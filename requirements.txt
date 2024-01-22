@@ -5,4 +5,4 @@ Jinja2==2.11.3
 MarkupSafe==1.0
 olefile==0.44
 Werkzeug==3.0.1
-Pillow==10.1.0
+Pillow==10.2.0
